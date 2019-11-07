@@ -3,7 +3,7 @@
 ## Mac OS
 
 ### 第一步
-前往目录文件夹`Software/Shodsocks`找到文件[ShadowsocksX-NG-R8](software/Shadowsocks/ShadowsocksX-NG-R8.app)和`export.json`，并下载到本地
+前往目录文件夹`Software/Shodsocks`找到文件[ShadowsocksX-NG-R8](./software/Shadowsocks/ShadowsocksX-NG-R8.app)和`export.json`，并下载到本地
 ### 第二步
 移动`ShadowsocksX-NG-R8`到`Application`文件夹，并打开`ShadowsocksX-NG-R8`
 ### 第三步
