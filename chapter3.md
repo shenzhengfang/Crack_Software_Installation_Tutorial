@@ -17,3 +17,4 @@
 ### 参考资源
 
 [https://www.waitsun.com/adobe-zii-patcher.html](https://www.waitsun.com/adobe-zii-patcher.html)
+[https://www.adobezii.com/category/latest-version/](https://www.adobezii.com/category/latest-version/)
